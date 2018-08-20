@@ -1,0 +1,8 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: marian.zvalo
+ * Date: 20.8.2018
+ * Time: 12:00
+ */
+echo "ahoj, tu som";
