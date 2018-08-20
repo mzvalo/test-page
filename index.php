@@ -6,3 +6,4 @@
  * Time: 12:00
  */
 echo "Ahoj, tu som Ahoj svet fdsa fdsa fdsa";
+phpinfo();
