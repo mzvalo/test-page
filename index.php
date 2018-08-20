@@ -1,2 +1,2 @@
 <?php
-echo "Ahoj, to som ja";
+echo "Ahoj, to som ja, Marián Zvalo";
