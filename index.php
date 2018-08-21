@@ -12,6 +12,6 @@ require_once 'vendor/autoload.php';
     <title>Getting Started</title>
 </head>
 <body>
-<script src="dist/index.js"></script>
+<script src="dist/main.js"></script>
 </body>
 </html>
