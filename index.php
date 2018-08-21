@@ -10,6 +10,7 @@ require_once 'vendor/autoload.php';
 <html>
 <head>
     <title>Getting Started</title>
+    <link rel="stylesheet" type="text/css" href="dist/index.min.css" media="all" />
 </head>
 <body>
 <script src="dist/index.min.js"></script>
