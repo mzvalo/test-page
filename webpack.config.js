@@ -13,7 +13,7 @@ module.exports = {
     },
     plugins: [
         new MiniCssExtractPlugin({
-            filename: "[name].min.css",
+            filename: "index.min.css",
         })
     ],
     module: {
