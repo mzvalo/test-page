@@ -6,3 +6,12 @@
  * Time: 12:00
  */
 require_once 'vendor/autoload.php';
+?><!doctype html>
+<html>
+<head>
+    <title>Getting Started</title>
+</head>
+<body>
+<script src="dist/index.js"></script>
+</body>
+</html>
