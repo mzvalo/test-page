@@ -6,7 +6,3 @@
  * Time: 12:00
  */
 require_once 'vendor/autoload.php';
-
-$image = new Intervention\Image\Image();
-
-print_r($image);
