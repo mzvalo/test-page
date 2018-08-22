@@ -1,7 +1,6 @@
 const path = require('path');
 
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
-var autoprefixer = require('autoprefixer');
 
 module.exports = {
     mode: 'production',
