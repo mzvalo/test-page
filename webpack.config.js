@@ -2,6 +2,8 @@ const path = require('path');
 
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
+var testVar = true;
+
 module.exports = {
     mode: 'production',
     entry: ['./src/js/index.js', './src/sass/index.scss'],
