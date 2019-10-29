@@ -14,5 +14,6 @@ require_once 'vendor/autoload.php';
 </head>
 <body>
 <script src="dist/index.min.js"></script>
+    fdsafdsa
 </body>
 </html>
